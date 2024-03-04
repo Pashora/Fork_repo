@@ -1,5 +1,6 @@
 # Fork_repo
 
+- from Olga Pashora
 - Elvira Ghibner
 - Julia Miller
 - Hello from Olga
